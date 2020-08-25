@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+me.nixuehan.timemachine.TimeMachineAutoConfiguration,\
+me.nixuehan.timemachine.TimeMachineCoordinatorAutoConfiguration
